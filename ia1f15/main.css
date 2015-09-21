@@ -103,11 +103,11 @@ a:hover {
 	text-decoration: none;
 }
 
-#mainL a, #mainR a, #header h1 a {
+#mainL a, #mainR a, #header h1 a, #contentheader a {
 	text-decoration: none;
 }
 
-#header a:hover{
+#header a:hover, #contentheader a:hover{
 	text-decoration: underline;
 }
 
